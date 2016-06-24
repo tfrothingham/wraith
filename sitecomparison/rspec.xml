@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="10" failures="0" errors="0" time="0.247796" timestamp="2016-01-08T16:44:06-05:00">
+  <!-- Randomized with seed 16272 -->
+  <properties/>
+  <testcase classname="spec.url_spec" name="url checks should be a valid url" file="./spec/url_spec.rb" time="0.001052"/>
+  <testcase classname="spec.url_spec" name="url checks should be valid https url" file="./spec/url_spec.rb" time="0.000159"/>
+  <testcase classname="spec.url_spec" name="url checks should not be a valid url" file="./spec/url_spec.rb" time="0.000120"/>
+  <testcase classname="spec.url_spec" name="url checks should match with no www in url" file="./spec/url_spec.rb" time="0.000084"/>
+  <testcase classname="spec.url_spec" name="url checks should replace host info in url" file="./spec/url_spec.rb" time="0.000118"/>
+  <testcase classname="spec.url_spec" name="url checks should replace host info in url with extended url" file="./spec/url_spec.rb" time="0.000099"/>
+  <testcase classname="spec.url_spec" name="dig it should return something" file="./spec/url_spec.rb" time="0.026897"/>
+  <testcase classname="spec.yamltemplate_spec" name="Side By Side should write a new yaml template for tpus" file="./spec/yamltemplate_spec.rb" time="0.000316"/>
+  <testcase classname="spec.yamltemplate_spec" name="Side By Side should write out the yaml template for tpu side by side" file="./spec/yamltemplate_spec.rb" time="0.217684"/>
+  <testcase classname="spec.yamltemplate_spec" name="testing dirs to objects should give me the top level directory names" file="./spec/yamltemplate_spec.rb" time="0.000021">
+    <skipped/>
+  </testcase>
+</testsuite>

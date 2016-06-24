@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="39" failures="4" errors="0" time="0.006074" timestamp="2015-10-21T14:14:30-04:00">
+  <properties/>
+  <testcase classname="spec.results_aggregate" name="diffs blair child_page_1 should be less than or equal to 10.0% difference, result was 0.31% different" time="0.002255"/>
+  <testcase classname="spec.results_aggregate" name="diffs blair child_page_2 should be less than or equal to 10.0% difference, result was 0.42% different" time="0.000087"/>
+  <testcase classname="spec.results_aggregate" name="diffs blair home should be less than or equal to 10.0% difference, result was 0.02% different" time="0.000059"/>
+  <testcase classname="spec.results_aggregate" name="diffs blair_applseeds child_page_1 should be less than or equal to 10.0% difference, result was 0.06% different" time="0.000054"/>
+  <testcase classname="spec.results_aggregate" name="diffs blair_applseeds child_page_2 should be less than or equal to 10.0% difference, result was 0.42% different" time="0.000053"/>
+  <testcase classname="spec.results_aggregate" name="diffs blair_applseeds home should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000053"/>
+  <testcase classname="spec.results_aggregate" name="diffs burlington_coat_factory child_page_1 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs burlington_coat_factory child_page_2 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000052"/>
+  <testcase classname="spec.results_aggregate" name="diffs burlington_coat_factory child_page_3 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000052"/>
+  <testcase classname="spec.results_aggregate" name="diffs burlington_coat_factory child_page_4 should be less than or equal to 10.0% difference, result was 0.01% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs burlington_coat_factory home should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs ClarksUSA child_page_1 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000052"/>
+  <testcase classname="spec.results_aggregate" name="diffs ClarksUSA child_page_2 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000050"/>
+  <testcase classname="spec.results_aggregate" name="diffs ClarksUSA home should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000050"/>
+  <testcase classname="spec.results_aggregate" name="diffs ebags child_page_1 should be less than or equal to 10.0% difference, result was 0.79% different" time="0.000050"/>
+  <testcase classname="spec.results_aggregate" name="diffs ebags child_page_2 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs ebags home should be less than or equal to 10.0% difference, result was 0.98% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs herrschners child_page_1 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs herrschners child_page_2 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000052"/>
+  <testcase classname="spec.results_aggregate" name="diffs herrschners home should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000050"/>
+  <testcase classname="spec.results_aggregate" name="diffs macmall child_page_1 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000050"/>
+  <testcase classname="spec.results_aggregate" name="diffs macmall child_page_2 should be less than or equal to 10.0% difference, result was 8.55% different" time="0.000050"/>
+  <testcase classname="spec.results_aggregate" name="diffs macmall home should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000050"/>
+  <testcase classname="spec.results_aggregate" name="diffs moosejaw child_page_1 should be less than or equal to 10.0% difference, result was 3.4% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs moosejaw child_page_2 should be less than or equal to 10.0% difference, result was 0.03% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs moosejaw child_page_2 should be less than or equal to 10.0% difference, result was 57.79% different" time="0.000156">
+    <failure message="UICompare/current/moosejaw/gallery.html" type="RSpec::Expectations::ExpectationNotMetError">
+      <![CDATA[UICompare/current/moosejaw/gallery.html
+./spec/results_aggregate.rb:31:in `block (3 levels) in <top (required)>']]>
+    </failure>
+  </testcase>
+  <testcase classname="spec.results_aggregate" name="diffs moosejaw home should be less than or equal to 10.0% difference, result was 14.39% different" time="0.000126">
+    <failure message="UICompare/current/moosejaw/gallery.html" type="RSpec::Expectations::ExpectationNotMetError">
+      <![CDATA[UICompare/current/moosejaw/gallery.html
+./spec/results_aggregate.rb:31:in `block (3 levels) in <top (required)>']]>
+    </failure>
+  </testcase>
+  <testcase classname="spec.results_aggregate" name="diffs mothercare child_page_1 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000063"/>
+  <testcase classname="spec.results_aggregate" name="diffs mothercare child_page_2 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000060"/>
+  <testcase classname="spec.results_aggregate" name="diffs mothercare home should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000058"/>
+  <testcase classname="spec.results_aggregate" name="diffs pcm child_page_1 should be less than or equal to 10.0% difference, result was 26.33% different" time="0.000116">
+    <failure message="UICompare/current/pcm/gallery.html" type="RSpec::Expectations::ExpectationNotMetError">
+      <![CDATA[UICompare/current/pcm/gallery.html
+./spec/results_aggregate.rb:31:in `block (3 levels) in <top (required)>']]>
+    </failure>
+  </testcase>
+  <testcase classname="spec.results_aggregate" name="diffs pcm child_page_2 should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000061"/>
+  <testcase classname="spec.results_aggregate" name="diffs pcm home should be less than or equal to 10.0% difference, result was 0.0% different" time="0.000059"/>
+  <testcase classname="spec.results_aggregate" name="diffs rock_creek child_page_1 should be less than or equal to 10.0% difference, result was 100.0% different" time="0.000113">
+    <failure message="UICompare/current/rock_creek/gallery.html" type="RSpec::Expectations::ExpectationNotMetError">
+      <![CDATA[UICompare/current/rock_creek/gallery.html
+./spec/results_aggregate.rb:31:in `block (3 levels) in <top (required)>']]>
+    </failure>
+  </testcase>
+  <testcase classname="spec.results_aggregate" name="diffs rock_creek child_page_2 should be less than or equal to 10.0% difference, result was 3.08% different" time="0.000073"/>
+  <testcase classname="spec.results_aggregate" name="diffs rock_creek home should be less than or equal to 10.0% difference, result was 1.19% different" time="0.000051"/>
+  <testcase classname="spec.results_aggregate" name="diffs smartpakequine child_page_1 should be less than or equal to 10.0% difference, result was 0.25% different" time="0.000046"/>
+  <testcase classname="spec.results_aggregate" name="diffs smartpakequine child_page_2 should be less than or equal to 10.0% difference, result was 0.5% different" time="0.000047"/>
+  <testcase classname="spec.results_aggregate" name="diffs smartpakequine home should be less than or equal to 10.0% difference, result was 0.2% different" time="0.000045"/>
+</testsuite>

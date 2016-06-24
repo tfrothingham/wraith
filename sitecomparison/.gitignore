@@ -1,0 +1,4 @@
+configs/*.yaml
+UICompare/
+.idea
+Gemfile.lock
